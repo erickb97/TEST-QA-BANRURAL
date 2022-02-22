@@ -1,5 +1,6 @@
-##Hallazgos Erick Barillas : 
-####Primero: 
+## Hallazgos Erick Barillas : 
+
+#### Primero: 
 **Uncaught TypeError: guessSubmit.addeventListener is not a function**: 
  Indica que existe un error en la linea 87 - > *guesssubmit.addeventlistener('click', checkguess);*
  Esto es porque la función addeventlistener no es reconocida ya que esta mal escrita
